@@ -33,7 +33,7 @@ export default function Home() {
            
   
             fill={true}
-            className="mix-blend-darken "
+            className="mix-blend-darken    "
           />
         </div>
       </section>
