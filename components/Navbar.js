@@ -26,7 +26,7 @@ const Navbar = () => {
             distance={80}
             direction="vertical"
             reverse={true}
-            duration={0.8}
+            duration={0.4}
             ease="bounce.out"
             initialOpacity={0.2}
             animateOpacity
@@ -47,7 +47,7 @@ const Navbar = () => {
             distance={80}
             direction="vertical"
             reverse={true}
-            duration={0.8}
+            duration={0.4}
             ease="bounce.out"
             initialOpacity={0.2}
             animateOpacity

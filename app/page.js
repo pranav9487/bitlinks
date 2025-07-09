@@ -15,6 +15,7 @@ export default function Home() {
     <div className="absolute bottom-0 left-[-20%] right-0 top-[-10%] h-[500px] w-[500px] rounded-full bg-[radial-gradient(circle_farthest-side,rgba(255,0,182,.15),rgba(255,255,255,0))]"></div>
     <div className="absolute bottom-0 right-[-20%] top-[-10%] h-[500px] w-[500px] rounded-full bg-[radial-gradient(circle_farthest-side,rgba(255,0,182,.15),rgba(255,255,255,0))]"></div>
   </div> */}
+   <div className="absolute inset-0 -z-10 h-full w-full bg-white bg-[radial-gradient(#e5e7eb_1px,transparent_1px)] [background-size:16px_16px]"></div>
       <section className="grid grid-cols-2 h-[50vh] m-2 rounded-md shadow-md bg-purple-50">
         <div className=" flex flex-col justify-center my-auto items-end gap-4 h-[50vh] m-1 rounded-2xl shadow-lg">
          <div className="m-2 mix-blend-darken"> 
