@@ -12,13 +12,13 @@ const Navbar = () => {
         <Link href="/">
           <li className="hover:font-bold">home</li>
         </Link>
-        <Link href="/">
+        <Link href="/about">
           <li className="hover:font-bold">about</li>
         </Link>
         <Link href="/shorten">
           <li className="hover:font-bold">shorten</li>
         </Link>
-        <Link href="/">
+        <Link href="/contact">
           <li className="hover:font-bold">contact</li>
         </Link>
         <li className="flex gap-3">
@@ -57,7 +57,8 @@ const Navbar = () => {
           >
             
               <Link
-            href="/github"
+            href="https://github.com/pranav9487/bitlinks"
+            target="_blank"
             className="bg-purple-600 px-3 py-1 font-bold shadow-lg rounded-lg"
           >
             github
